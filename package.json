@@ -4,6 +4,6 @@
   "id": "jid1-ZtVwH8EfGXf2vg",
   "description": "Adds a button to apply wadsworth constant to youtube video with a single click.",
   "author": "michal@traal.eu",
-  "license": "MPL 2.0",
+  "license": "MIT",
   "version": "0.1"
 }
