@@ -1,0 +1,2 @@
+# Wadsworth Youtube Firefox addon
+=================================
